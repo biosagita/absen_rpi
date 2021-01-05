@@ -1,0 +1,17 @@
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\bin\Debug\absen_rpi.exe
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\bin\Debug\absen_rpi.pdb
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\bin\Debug\absen_rpi.xml
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.vbprojAssemblyReference.cache
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.Resources.resources
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.vbproj.GenerateResource.cache
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.vbproj.CoreCompileInputs.cache
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.exe
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.xml
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.pdb
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.Dashboard.resources
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.Transaction.resources
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.User.resources
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\bin\Debug\absen_rpi.exe.config
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\bin\Debug\MySql.Data.dll
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\bin\Debug\MySql.Data.xml
+C:\Users\biosa\Google Drive\Belajar\absen_rpi\absen_rpi\obj\Debug\absen_rpi.vbproj.CopyComplete
